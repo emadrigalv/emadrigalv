@@ -53,6 +53,6 @@ Mechanical Engineer specialized in software development, 3D interactive environm
 
 ## Contact & Portfolio
 
-- **Interactive Portfolio:** [View Portfolio on Canva](https://emadrigalv-portfolio.my.canva.site)
+- **Interactive Portfolio:** [View Portfolio](https://emadrigalv.github.io/portfolio/)
 - **LinkedIn:** [linkedin.com/in/emadrigalv](https://www.linkedin.com/in/emadrigalv/)
 - **Email:** emmanuel.mv99@gmail.com
